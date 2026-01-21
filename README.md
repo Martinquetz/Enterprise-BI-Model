@@ -160,7 +160,7 @@ The Power BI report mirrors the original dashboard but is now powered by the sem
 
 - Sales & Profit Overview  
 - Management KPIs  
-- Customer & Region Insights  
+- Product & Region Insights  
 - Metrics Review  
 - Filter Page  
 - Semantic Layer Overview  
