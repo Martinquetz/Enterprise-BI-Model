@@ -158,6 +158,8 @@ It illustrates:
 ## Dashboard Pages
 The Power BI report mirrors the original dashboard but is now powered by the semantic model:
 
+
+
 - Sales & Profit Overview  
 - Management KPIs  
 - Product & Region Insights  
