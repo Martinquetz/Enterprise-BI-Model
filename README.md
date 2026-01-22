@@ -179,8 +179,8 @@ The Power BI report mirrors the original dashboard but is now powered by the sem
 Each page includes improved clarity, hierarchy, and narrative framing.
 
 
-<img width="1518" height="852" alt="2026-01-21_18-34-09" src="https://github.com/user-attachments/assets/e11795d1-8c14-4359-bedb-6c613986c99e" />
 
+<img width="1518" height="856" alt="2026-01-21_20-55-47" src="https://github.com/user-attachments/assets/9bd5d818-7766-405f-aa93-28f5805312f9" />
 
 
 
