@@ -159,6 +159,7 @@ It illustrates:
 The Power BI report mirrors the original dashboard but is now powered by the semantic model:
 
 
+<img width="1518" height="852" alt="2026-01-21_18-34-09" src="https://github.com/user-attachments/assets/e11795d1-8c14-4359-bedb-6c613986c99e" />
 
 - Sales & Profit Overview  
 - Management KPIs  
