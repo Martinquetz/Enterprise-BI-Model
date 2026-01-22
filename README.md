@@ -42,6 +42,10 @@ It complements the original *Advanced_BI_Insight* dashboard by exposing the **en
 ## Architecture Overview
 The solution follows a classic **star schema** pattern:
 
+
+<img width="1097" height="839" alt="2026-01-21_18-05-07" src="https://github.com/user-attachments/assets/5948caf8-07d0-4200-8444-f4ca1a25686f" />
+
+
 - Fact table: transactional sales data  
 - Dimension tables: product, customer, geography, date  
 - Reference tables: target metrics, country metadata  
@@ -68,7 +72,10 @@ The semantic layer includes:
 - Primary and foreign keys  
 - Hierarchies  
 - Measure groups  
-- Documentation  
+- Documentation
+
+<img width="449" height="811" alt="2026-01-21_18-24-32" src="https://github.com/user-attachments/assets/43f5f044-b163-4e81-80fc-fe9d8e7863bd" />
+
 
 ### Key Principles
 - Dimensions filter facts (one‑directional relationships)  
@@ -91,6 +98,7 @@ Contains order‑level metrics: sales, profit, quantity, shipping cost, dates, p
 **Dim_Geo** – continent, country, region, state, GeoID  
 **Dates** – full calendar table with hierarchies  
 
+
 ### Reference Tables
 **TargetProfitContinent** – profit targets by continent  
 **TargetOrderShip** – fulfillment targets  
@@ -100,6 +108,9 @@ Contains order‑level metrics: sales, profit, quantity, shipping cost, dates, p
 
 ## Measure Layer
 All measures are centralized in `_Measures` and grouped logically:
+
+<img width="1097" height="839" alt="2026-01-21_18-05-07" src="https://github.com/user-attachments/assets/71efef77-45ee-4f05-9a76-dbbcc67fc195" />
+
 
 ### Performance Metrics
 - Total Sales  
@@ -158,9 +169,6 @@ It illustrates:
 ## Dashboard Pages
 The Power BI report mirrors the original dashboard but is now powered by the semantic model:
 
-
-<img width="1518" height="852" alt="2026-01-21_18-34-09" src="https://github.com/user-attachments/assets/e11795d1-8c14-4359-bedb-6c613986c99e" />
-
 - Sales & Profit Overview  
 - Management KPIs  
 - Product & Region Insights  
@@ -169,6 +177,12 @@ The Power BI report mirrors the original dashboard but is now powered by the sem
 - Semantic Layer Overview  
 
 Each page includes improved clarity, hierarchy, and narrative framing.
+
+
+<img width="1518" height="852" alt="2026-01-21_18-34-09" src="https://github.com/user-attachments/assets/e11795d1-8c14-4359-bedb-6c613986c99e" />
+
+
+
 
 ---
 
