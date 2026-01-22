@@ -109,7 +109,7 @@ Contains order‑level metrics: sales, profit, quantity, shipping cost, dates, p
 ## Measure Layer
 All measures are centralized in `_Measures` and grouped logically:
 
-<img width="1097" height="839" alt="2026-01-21_18-05-07" src="https://github.com/user-attachments/assets/71efef77-45ee-4f05-9a76-dbbcc67fc195" />
+<img width="381" height="627" alt="2026-01-21_18-28-29" src="https://github.com/user-attachments/assets/55f2636b-4550-4ff5-bf19-24ae0f0f22bc" />
 
 
 ### Performance Metrics
